@@ -28,12 +28,11 @@ The Finance dashboard gives a bird’s eye view of document status across the de
 
 <div align="center">
   <br/>
-  ![crm_dashboard (1)_page-0001](https://github.com/user-attachments/assets/88d1f000-e2d5-4ceb-ae5f-c4846aa9cbc9)
-
+  <img src="finance_dashboard_page1.jpg" width="80%" alt="Finance Dashboard Overview" />
   <br/><br/>
-  ![crm_dashboard (1)_page-0002](https://github.com/user-attachments/assets/c370425b-4b06-4efc-9216-88948dff54bb)
-
+  <img src="finance_dashboard_page2.jpg" width="80%" alt="Finance Member Performance" />
 </div>
+
 
 ---
 
@@ -46,9 +45,9 @@ This dashboard helps keep client-related projects in check — especially those 
 🔹 See overdue projects and act fast
 
 <div align="center">
-  ![crm_dashboard (1)_page-0003](https://github.com/user-attachments/assets/957b445a-23f6-487b-8f37-43bccbb15dc6)
-
+  <img src="retainer_dashboard.jpg" width="80%" alt="Retainer Dashboard Overview" />
 </div>
+
 
 ---
 
@@ -61,9 +60,9 @@ The Registration dashboard focuses on how fast and efficiently projects move thr
 🔹 Understand average turnaround time
 
 <div align="center">
-  ![crm_dashboard (1)_page-0004](https://github.com/user-attachments/assets/59dcc397-cf48-408a-993c-5b1d1665034f)
-
+  <img src="registration_dashboard.jpg" width="80%" alt="Registration Dashboard Overview" />
 </div>
+
 
 ---
 
