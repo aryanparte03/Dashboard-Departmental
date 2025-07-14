@@ -80,4 +80,4 @@ The Registration dashboard focuses on how fast and efficiently projects move thr
 Built by **Aryan Parte** – Business Intelligence Intern @ Envision Next  
 Focused on turning raw data into clear, human-friendly insights.
 
-> *Feel free to reach out on [LinkedIn]([https://linkedin.com/in/aryanparte](https://www.linkedin.com/in/aryan-parte-7a3163251/)) for collaboration or questions!*
+> *Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aryan-parte-7a3163251/) for collaboration or questions!*
