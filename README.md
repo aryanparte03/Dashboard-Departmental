@@ -27,7 +27,8 @@ The Finance dashboard gives a bird’s eye view of document status across the de
 🔹 Monitor task flow over time with simple visuals
 
 <div align="center">
-  ![crm_dashboard (1)_page-0001](https://github.com/user-attachments/assets/307416f3-0aad-4bab-b856-346d83648df7)
+  <br/>
+  ![crm_dashboard (1)_page-0001](https://github.com/user-attachments/assets/88d1f000-e2d5-4ceb-ae5f-c4846aa9cbc9)
 
   <br/><br/>
   ![crm_dashboard (1)_page-0002](https://github.com/user-attachments/assets/c370425b-4b06-4efc-9216-88948dff54bb)
